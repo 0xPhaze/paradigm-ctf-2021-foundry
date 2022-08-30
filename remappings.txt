@@ -1,0 +1,4 @@
+V2-core/=lib/V2-core/contracts/
+ds-test/=lib/solmate/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+solmate/=lib/solmate/src/
